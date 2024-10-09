@@ -2,5 +2,8 @@
 -buuat bantai chatgpt
 -buat ngocog
 -buat gg
+-nambah react
+-nambah c++
+=======
 -belajar javascript
 -belajar python
