@@ -2,3 +2,5 @@
 -buuat bantai chatgpt
 -buat ngocog
 -buat gg
+-belajar php
+-belajar mysql
