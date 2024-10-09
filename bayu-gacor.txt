@@ -2,3 +2,6 @@
 -buuat bantai chatgpt
 -buat ngocog
 -buat gg
+-nambah next
+-nambah react
+-nambah c++
